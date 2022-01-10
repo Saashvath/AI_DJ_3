@@ -1,0 +1,25 @@
+.heading{
+
+    font-size:30px;
+    color:white;
+    font-weight:bold;
+}
+
+#note{
+
+font-size: 18px;
+font-weight: bold;
+}
+
+
+#song_name{
+
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#img2{
+
+    height: 450px;
+    width: 450px;
+}
